@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gerson-fox/Site-Caculo-de-Meta/static/css/main.72686443.css",
+    "main.js": "/Gerson-fox/Site-Caculo-de-Meta/static/js/main.825f97ec.js",
+    "static/js/453.ceb27270.chunk.js": "/Gerson-fox/Site-Caculo-de-Meta/static/js/453.ceb27270.chunk.js",
+    "index.html": "/Gerson-fox/Site-Caculo-de-Meta/index.html",
+    "main.72686443.css.map": "/Gerson-fox/Site-Caculo-de-Meta/static/css/main.72686443.css.map",
+    "main.825f97ec.js.map": "/Gerson-fox/Site-Caculo-de-Meta/static/js/main.825f97ec.js.map",
+    "453.ceb27270.chunk.js.map": "/Gerson-fox/Site-Caculo-de-Meta/static/js/453.ceb27270.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72686443.css",
+    "static/js/main.825f97ec.js"
+  ]
+}
